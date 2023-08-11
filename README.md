@@ -13,3 +13,4 @@ It has the following courses:
  - Responsive Web Design Projects
 
 More information [here](https://www.freecodecamp.org/learn/responsive-web-design/).
+![Screenshot 2023-08-11 120245](https://github.com/szabolcsthedeveloper/freeCodeCamp-Responsive-Web-Design/assets/109295080/18633cff-6aa0-4454-91d8-069c97b753d3)
